@@ -1,7 +1,8 @@
 # userchrome.css
 ## A Simple and clean chromeuser.ss for librewolf
+## I am using EricMurphy's userchrome.css and did a slight modification to make it work with mine.
 
-## How to ----------
+## How to install
 
 1. Locate your userchrome folder
 
