@@ -5,8 +5,10 @@
 
 1. Locate your userchrome folder
 
+Search bar
+```
 about:profiles
-
+```
 2. CD to your userchrome folder
 
 bash
