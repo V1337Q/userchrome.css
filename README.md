@@ -1,6 +1,6 @@
 # userchrome.css
 ### A Simple and clean userchrome.css for librewolf
-### I am using EricMurphy's userchrome.css and did a slight modification to make it work with mine.**
+### I am using EricMurphy's userchrome.css and did a slight modification to make it work with mine.
 
 ## How to install
 
